@@ -2,7 +2,7 @@ jupyter
 numpy
 pandas
 scikit-learn
-matplotlit
+matplotlip
 seaborn
 scipy
 pandas-profiling
